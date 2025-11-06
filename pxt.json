@@ -1,6 +1,6 @@
 {
     "name": "pxt-acebott-microbit-kit",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -26,5 +26,6 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "tsprj",
+    "icon": "icon.png"
 }
