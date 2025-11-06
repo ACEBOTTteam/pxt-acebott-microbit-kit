@@ -13,7 +13,8 @@
         "BH1745NUC.ts",
         "SH1106.ts",
         "BMP280.ts",
-        "LCD1602.ts"
+        "LCD1602.ts",
+        "tutorial-info-cache.json"
     ],
     "testFiles": [
         "test.ts"
